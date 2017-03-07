@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "B:\\androidproject\\project\\swappinglistview\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "B:\\androidproject\\project\\swappinglistview\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "B:\\androidproject\\project\\swappinglistview\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "B:\\androidproject\\project\\swappinglistview\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

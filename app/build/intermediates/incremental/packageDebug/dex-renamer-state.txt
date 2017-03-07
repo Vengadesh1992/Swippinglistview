@@ -1,0 +1,7 @@
+#Tue Mar 07 12:55:42 IST 2017
+base.0=B\:\\androidproject\\project\\swappinglistview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6f7ff181ae228d60ef60e1400570ebafe840ec7c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=B\:\\androidproject\\project\\swappinglistview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d2439d18840477bb7eac944ee576fbaf4d429578\\classes.dex
+base.1=B\:\\androidproject\\project\\swappinglistview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d2439d18840477bb7eac944ee576fbaf4d429578
+file.0=B\:\\androidproject\\project\\swappinglistview\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6f7ff181ae228d60ef60e1400570ebafe840ec7c\\classes.dex
